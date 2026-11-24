@@ -1,4 +1,4 @@
-*/
+/*
   Slap Detection Subsystem
   Preliminary prototype
 Surface-mount my two IR break-beam sensor pairs around the card landing area, with a piezo underneath the slap surface.
