@@ -1,9 +1,7 @@
-# AoE
 AoE Common Project - Sensor code Group 16
 Arduino-based optical and impact slap detection subsystem.
 # Slap Detection System
-Project Overview
-This subsystem is designed to detect player hand entry and physical impact in a two-player Slap Jack-style card game.
+Subsystem is designed to detect player hand entry and physical impact in a two-player Slap Jack-style card game.
 
 ## Hardware Components
 - 2 infrared (IR) break-beam sensor pairs
@@ -13,11 +11,11 @@ This subsystem is designed to detect player hand entry and physical impact in a 
 - Resistors and signal-protection diodes
 
 ## System Functionality
-1. Detects Player 1 and Player 2 hand entry using separate IR break-beam sensors.
-2. Detects physical impact using a piezoelectric sensor.
-3. Records event timestamps.
-4. Evaluates which player likely approached first.
-5. Flags potentially simultaneous events as ambiguous.
+Detects Player 1 and Player 2 hand entry using separate IR break-beam sensors.
+Detects physical impact using a piezoelectric sensor.
+Records event timestamps.
+Evaluates which player likely approached first.
+Flags potentially simultaneous events as ambiguous.
 
 ## Current Development Stage
 Initial prototype and sensor testing.
