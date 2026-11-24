@@ -1,4 +1,3 @@
-AoE Common Project - Sensor code Group 16
 Arduino-based optical and impact slap detection subsystem.
 # Slap Detection System
 Subsystem is designed to detect player hand entry and physical impact in a two-player Slap Jack-style card game.
